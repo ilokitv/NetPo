@@ -1,0 +1,14 @@
+{
+  "DefaultUrl": "https://google.com",
+  "WhiteListUrls": [
+    "https://google.com/",
+    "https://www.microsoft.com"
+  ],
+  "AllowedApps": [
+    "NetPO.App",
+    "msedgewebview2.exe",
+    "msedge.exe"
+  ],
+  "AdminPasswordHash": "",
+  "ScheduleTimes": []
+}

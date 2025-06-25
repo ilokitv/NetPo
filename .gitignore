@@ -1,0 +1,166 @@
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2019 cache/options
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# DotCover
+*.dotCover
+
+# Paket files
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.cache
+
+# FSharp
+paket.lock
+paket.dependencies
+.paket
+
+# Boo
+*.booproj
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# ILSpy
+ILSpy.xml
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if you don't want to check in NuGet packages:
+#packages/
+# Official NuGet Command Line Tool
+.nuget/
+
+# WiX Toolset
+*.wixpdb
+
+# Visual Studio
+*.pdb
+*.exe
+*.dll
+*.obj
+*.ilk
+*.aps
+*.ncb
+*.bak
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*_h.h
+*.pch
+*.[Cc]ache
+*.sdf
+ipch/
+*.VC.db
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity
+TeamCity.*
+
+# DotSettings files
+*.DotSettings
+*.DotSettings.user
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Output files
+DerivedData/
+Build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders containing locally running instances of Azure Functions
+.azurefunctions/
+
+# Azure Functions local settings file
+local.settings.json
+
+# Backup and temporary files
+*~
+*.tmp
+*.bak
+*.swp
+
+# Rider Code Coverage
+*.snapshot
+
+# Service Fabric
+*.sfproj.user
+
+# StyleCop
+StyleCopReport.xml
+
+# Roslyn
+*.ruleset
+
+# MyGet
+.myget/
